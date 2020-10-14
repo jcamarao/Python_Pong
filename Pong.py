@@ -65,7 +65,7 @@ pen.color("white");
 pen.penup()
 pen.hideturtle()
 pen.goto(0, 260)
-pen.write("Player A: 0  |  Player B: 0", align="center", font=("Courier", 20, "normal"))
+pen.write("Player 1: 0  |  Player 2: 0", align="center", font=("Courier", 20, "normal"))
 
 # functions to allow the pieces to move
 def paddle_a_up():
